@@ -1,0 +1,12 @@
+Plan d'action
+Ajout des 6 autres boutons sur le html
+Assigné des id aux 9 boutons
+L'ajout de la balise audio et les lié au fichier source.
+Création de la keydown en js
+Ajouter un évent
+Création d'une variable permettant de lier ma variable aux différents id des audio
+Création de condition pour remettre l'audio a 0
+Relier la class css a mon js
+
+Pareil pour mon mouseclick
+exporté mes fichiers puis importé mon dossier vers mon index.js.
